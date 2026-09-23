@@ -10,3 +10,4 @@ Mini sistema web pessoal para organização de demandas.
 4. Em **Build and deployment**, escolha **Deploy from a branch**.
 5. Selecione a branch `main` e a pasta `/ (root)`.
 6. Salve. O GitHub Pages mostrará o endereço público do sistema.
+Painel de trabalho da Julia
